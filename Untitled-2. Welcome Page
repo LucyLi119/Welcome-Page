@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+<body background="../Desktop/Web Dev/download.jpeg">
+
+
+
+<h1 style="text-align: center; color: yellow">
+	Welcome to my Web Dev site
+	</h1>
+<h2 style="color: yellow"> Week1&nbsp;</h2>
+	<h2 style="color: yellow">Week2 </h2>
+</body>
+</html>
